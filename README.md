@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @umardembele
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interesed in software development and more
+- 💻 I'm learning bit by bit.
+- 🗃 i am will be happy with some tips or an internship opportunity.
 
-<!---
-umardembele/umardembele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+Thank you for visiting my page
